@@ -343,7 +343,7 @@ header nav a:hover {
 }
 
 .progress-bar-container {
-    width: 100%;
+    width: 75%;
     height: 8px;
     background-color: #111111;
     border-radius: 10px;
