@@ -352,7 +352,7 @@ header nav a:hover {
 }
 
 .progress-bar-fill {
-    width: 75%;
+    height: 125%;
     background: linear-gradient(90deg, #0052cc, #0080ff);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 128, 255, 0.5);
